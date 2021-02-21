@@ -15,7 +15,7 @@ export default function register(){
                     <img src={logoImg} alt="logo"/>
                     <h1>cadastro</h1>
                     
-                    <p>Faça seu cadastro, entre na plataforma e ajude passoas a encontra os casoda sua ONG.</p>
+                    <p>Faça seu cadastro, entre na plataforma e ajude passoas a encontra os casos da sua ONG.</p>
 
                     <Link className="back-link"to="/" >
                     <FiArrowLeft size={16} color="#e02041"/>
